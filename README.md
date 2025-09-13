@@ -1,7 +1,7 @@
 # Female Starter Pack Script | BJ Development
 
 Framework Compatibility: ESX & QBCore
-Inventory Required: ox_inventory (v2.40.2+)
+Inventory Required: ox_inventory
 
 This script adds a Female Starter Pack item to your server, giving new female characters a convenient set of starter items. It also includes Discord webhook logging for tracking usage.
 
